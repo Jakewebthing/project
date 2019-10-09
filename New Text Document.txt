@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <meta charset="utf-8">
+     <title>Tacos?</title>
+     <style>
+            body {
+                font-family: sans-serif;
+            }
+        
+        </style>
+    </head>
+    <body> 
+        <h1>Tacos on a Discount</h1>
+        
+        <p> Eat my Tacos u Fat Loser.</p>
+        
+        
+<h2>Meat Lovers Tacos</h2>
+<ul>
+<li>
+<a href="https://i.kinja-img.com/gawker-media/image/upload/s--6RyJpgBM--/c_scale,f_auto,fl_progressive,q_80,w_800/tmlwln8revg44xz4f0tj.jpg">
+                    Dog Taco
+                </a>
+            </li>
+            <li>
+                <a href="https://minimalistbaker.com/wp-content/uploads/2016/05/AMAZING-EASY-Quinoa-Taco-22Meat22-thats-crispy-flavorful-and-protein-packed-9-ingredients-SO-EASY-healthy-vegan-glutenfree-quinoa-tacos-mexican-recipe.jpg">Fat Beef Taco</a>
+            </li>
+            <li>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpV5VzTIjQi23NbT4vY50do3PFCynJJfQS9mfXl-qh7nJTtQ5c">Human Leg Taco</a>
+            </li>
+        </ul>
+        
+        <h2>Vegan Tacos</h2>
+        <ul> 
+            <li>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVJtAckW4kMU7hlvbLW4ZwBTRYiHTkcr5EnSjWvsvsVHj5tVpM">
+                    Grass Taco
+       </a>
+   </li>
+  <li>
+  <a href="https://vegnews.com/media/W1siZiIsIjE0Nzg4L1ZlZ05ld3MuVGFjb0JlbGxVS1RhY29zLnBuZyJdLFsicCIsImNvbnZlcnQiLCItY3JvcCAxMDk4eDY0OSswKzI1ICtyZXBhZ2UgLXJlc2l6ZSA4MDB4NDczXiIseyJmb3JtYXQiOiJqcGcifV0sWyJwIiwib3B0aW1pemUiXV0/VegNews.TacoBellUKTacos.png?sha=15e40b1115ff961b">
+                    Bad Taco
+     </a>
+  </li>
+  </ul>
+        
+   <h2>Misc. Tacos</h2>
+ <ul>
+            <li>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQI5jxHdZfjF4Rm10fxopadcf7T-D3ZEuFw3gcfHREFGHqlikd5">
+                    Iron taco
+ </a>
+ </li>
+ <li>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaORmpl1-eWTZ0GfwLEJuofpjvwCalA4P7tExOZJA9aHin0s0l">
+                    Dirt Taco
+ </a>
+ </li>
+ </ul>
+ </body>
+ </html>
